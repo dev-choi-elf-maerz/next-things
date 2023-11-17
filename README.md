@@ -58,7 +58,13 @@ MogoDB claud를 사용하여 간단하게 메세지 보내기를 통해 내용�
 
 <img src="/project_images/blog5.png" style="height: 400px" />
 
-- 발송한 Messaage는 MongoDB Claud에 저장되었습니다..
+- 발송한 Messaage는 MongoDB Claud에 저장되었습니다.
+
+### News Latter 💬</p>
+<img src="/project_images/letter1.png" style="height: 400;" />
+
+- 자신의 이메일을 등록합니다.
+
 
 
 <!--
